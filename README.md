@@ -1,7 +1,4 @@
 # john-the-ripper---cheatsheet
-Here’s a detailed cheat sheet on John the Ripper that you can use
-
----
 
 John the Ripper is a powerful and flexible password-cracking tool used for security testing and recovery. It supports multiple attack methods and various password hash types. Below is a comprehensive guide on how to use John the Ripper effectively.
 
